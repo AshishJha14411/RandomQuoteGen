@@ -5,7 +5,7 @@ This is a simple project made to generate a random quote using an API call each 
 
 40 mins approximately
 
-[Live Demo](https://palindrome-checker-akj.netlify.app/)
+[Live Demo](https://randomquotegen-akj.netlify.app/)
 
 ### SnapShot of the program
 
